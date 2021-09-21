@@ -24,4 +24,7 @@ _Note: If you're using the Azure Functions CLI tools, refer to [the documentatio
 This application can be deployed to [Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps), to learn how, check out [our quickstart guide](https://aka.ms/blazor-swa/quickstart).
 
 ![Screenshot](https://raw.githubusercontent.com/PazSheimy/azureprojectcop3003/main/Screenshot%20(428).png)
-https://raw.githubusercontent.com/PazSheimy/azureprojectcop3003/main/Screenshot%20(428).png
+![Screenshot](https://raw.githubusercontent.com/PazSheimy/azureprojectcop3003/main/Screenshot%20(429).png)
+![Screenshot](https://raw.githubusercontent.com/PazSheimy/azureprojectcop3003/main/Screenshot%20(430).png)
+![Screenshot](https://raw.githubusercontent.com/PazSheimy/azureprojectcop3003/main/Screenshot%20(432).png)
+
